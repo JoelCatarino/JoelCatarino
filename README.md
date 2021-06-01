@@ -11,7 +11,6 @@ I am a full stack PHP and my goal is to help people through programming. I have 
 <h3 align="left">📫 How to reach me: 🧙</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-catarino-977a8a19b/)](https://www.linkedin.com/in/joel-catarino-977a8a19b/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joelscatarino@outlook.com)](mailto:joelscatarino@outlook.com)
-  https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
   
   
 <h3 align="left">Languages and Tools:</h3>
