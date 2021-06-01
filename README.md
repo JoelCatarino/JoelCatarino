@@ -4,7 +4,7 @@ I am a full stack PHP and my goal is to help people through programming. I have 
 "imagination is the preview of future attractions" - Albert Einstein 🧠
 
 - From Brazil
-- Studing PHP on @upinside
+- Studing PHP | Laravel | Vue
 - :rocket: Looking for an internship or junior opportunity
 
 #### 📫 How to reach me: 🧙
