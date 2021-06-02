@@ -28,8 +28,7 @@ I am a full stack PHP and my goal is to help people through programming. I have 
 
  <div>
   <a href="https://github.com/joelcatarino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joelcatarino&show_icons=true&theme=vue&include_all_commits=true&count_private=true&custom_title=My Github Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcatarino&layout=compact&langs_count=20&theme=vue&custom_title=Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joelcatarino&show_icons=true&theme=vue&include_all_commits=true&count_private=true&custom_title=My Github Stats"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcatarino&layout=compact&langs_count=20&theme=vue&custom_title=Top Languages"/>
 <div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
