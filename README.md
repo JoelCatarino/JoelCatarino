@@ -1,4 +1,3 @@
-
 # Hey, Joel Catarino here!
 I am a full stack PHP and my goal is to help people through programming. I have a homemade seasoning business. 
 
@@ -8,12 +7,11 @@ I am a full stack PHP and my goal is to help people through programming. I have 
 - :rocket: Looking for an internship or junior opportunity
 - 🌱 I’m currently learning **PHP | Laravel** | **Vue**
 
-
 <h3 align="left">📫 How to reach me: 🧙</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-catarino-977a8a19b/)](https://www.linkedin.com/in/joel-catarino-977a8a19b/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joelscatarino@outlook.com)](mailto:joelscatarino@outlook.com)
   
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
      <img align="center" alt="Wellington-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
     <img align="center" alt="Wellington-PHP" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="WELLINGTON-VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
