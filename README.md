@@ -12,13 +12,14 @@ I am a full stack PHP and my goal is to help people through programming. I have 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-catarino-977a8a19b/)](https://www.linkedin.com/in/joel-catarino-977a8a19b/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joelscatarino@outlook.com)](mailto:joelscatarino@outlook.com)
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Wellington-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
-    <img align="center" alt="Wellington-PHP" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="WELLINGTON-VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="WELLINGTON-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-    <img align="center" alt="WELLINGTON-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="WELLINGTON-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="WELLINGTON-LINUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
+    <img align="center" alt="-PHP" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="-VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
+    <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="-LINUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="right" alt="Nitendo-map" src="https://wallpaperplay.com/walls/full/5/f/a/162875.jpg">
 </div>
 
  ##
