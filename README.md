@@ -19,7 +19,7 @@ I am a full stack PHP and my goal is to help people through programming. I have 
     <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="-LINUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="right" alt="Nitendo-map" src="https://wallpaperplay.com/walls/full/5/f/a/162875.jpg">
+    
 </div>
 
  ##
@@ -29,5 +29,7 @@ I am a full stack PHP and my goal is to help people through programming. I have 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joelcatarino&show_icons=true&theme=vue&include_all_commits=true&count_private=true&custom_title=My Github Stats"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcatarino&layout=compact&langs_count=20&theme=vue&custom_title=Top Languages"/>
 <div>
   
+    <img align="right" alt="Nitendo-map" src="https://wallpaperplay.com/walls/full/5/f/a/162875.jpg">
+    
   ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
  
