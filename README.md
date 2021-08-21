@@ -12,21 +12,19 @@ I am a full stack PHP and my goal is to help people through programming. I have 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-catarino-977a8a19b/)](https://www.linkedin.com/in/joel-catarino-977a8a19b/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joelscatarino@outlook.com)](mailto:joelscatarino@outlook.com)
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
+    <img align="center" alt="-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"> 
     <img align="center" alt="-PHP" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="-VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-    <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="-LINUX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+    <img align="center" alt="-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </div>
 
  ##
 <br>
 <div>
   <a href="https://github.com/joelcatarino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joelcatarino&show_icons=true&theme=vue&include_all_commits=true&count_private=true&custom_title=My Github Stats"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcatarino&layout=compact&langs_count=20&theme=vue&custom_title=Top Languages"/>
-      <img align="right" alt="Nitendo-map" src="https://wallpaperplay.com/walls/full/5/f/a/162875.jpg">
+      <img align="right" height="180em" alt="Nitendo-map" src="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v535batch2-mynt-43.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=9f602de67a347b7c50ef8eeac3835189.jpg">
 <div>
     
   ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
