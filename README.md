@@ -24,7 +24,7 @@ I am a full stack PHP and my goal is to help people through programming. I have 
 <div>
   <a href="https://github.com/joelcatarino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joelcatarino&show_icons=true&theme=vue&include_all_commits=true&count_private=true&custom_title=My Github Stats"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelcatarino&layout=compact&langs_count=20&theme=vue&custom_title=Top Languages"/>
-      <img align="right" height="180em" alt="Nitendo-map" src="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v535batch2-mynt-43.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=9f602de67a347b7c50ef8eeac3835189.jpg">
+      <img align="center" width="88%" height="180em" src="https://i.vimeocdn.com/video/889613003_640x360.jpg.jpg">
 <div>
     
   ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
