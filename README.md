@@ -1,11 +1,12 @@
 # Hey, Joel Catarino here!
-I am a full stack PHP and my goal is to help people through programming. I have a homemade seasoning business. 
+I am a Front-end Developer and my goal is to help people through programming. I have a homemade seasoning business. 
 
 "imagination is the preview of future attractions" - Albert Einstein 🧠
 
 - From Brazil
 - :rocket: Looking for an internship or junior opportunity
-- 🌱 I’m currently learning **PHP | Laravel** | **Vue**
+- 🌱 I’m currently learning **Vue.js**
+- I think about being a full stack developer
 
 <h3 align="left">📫 How to reach me: 🧙</h3>
 
