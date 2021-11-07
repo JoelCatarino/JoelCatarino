@@ -25,7 +25,6 @@ I am a Front-end Developer and my goal is to help people through programming. I 
 <div>
   <a href="https://github.com/joelcatarino">
   
-      <img align="center" width="100%" height="300em" src="https://i.vimeocdn.com/video/889613003_640x360.jpg.jpg">
 <div>
     
   ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
