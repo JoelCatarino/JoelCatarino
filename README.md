@@ -3,10 +3,9 @@ I am a Front-end Developer and my goal is to help people through programming. I 
 
 "imagination is the preview of future attractions" - Albert Einstein 🧠
 
-- From Brazil
-- :rocket: Looking for an internship or junior opportunity
+- 🇧🇷 From Brazil
+- :rocket: Les't go
 - 🌱 I’m currently learning **Vue.js**
-- I think about being a full stack developer
 
 <h3 align="left">📫 How to reach me: 🧙</h3>
 
