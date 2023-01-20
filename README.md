@@ -1,6 +1,7 @@
 "imagination is the preview of future attractions" - Albert Einstein 🧠
 
 ✨ M.E.R.N stack ✨
+ADS
 
 <h3 align="left">📫 How to reach me: 🧙</h3>
 
@@ -11,4 +12,3 @@
     <img align="center" alt="-mongo" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img align="center" alt="-node" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="-react" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    
