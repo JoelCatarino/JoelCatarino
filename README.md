@@ -1,6 +1,6 @@
 "imagination is the preview of future attractions" - Albert Einstein 🧠
 
-✨ M.E.R.N stack ✨
+✨ M.E.R.N stack ✨ <br>
 ADS
 
 <h3 align="left">📫 How to reach me: 🧙</h3>
